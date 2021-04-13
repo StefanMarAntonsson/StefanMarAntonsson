@@ -1,2 +1,2 @@
-[![Github stats](https://github-readme-stats.vercel.app/api?username=StefanMarAntonsson)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://raw.githubusercontent.com/StefanMarAntonsson/StefanMarAntonsson/f6df946b93253e67f8ffc439fc55a8c1c309229f/bg.svg" width="100%" height="200">
+[![Github stats](https://github-readme-stats.vercel.app/api?username=StefanMarAntonsson&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/StefanMarAntonsson/StefanMarAntonsson/blob/6aef3a9d7418ce8234d80f139baa371191d52497/bg.svg" width="100%" height="400">
