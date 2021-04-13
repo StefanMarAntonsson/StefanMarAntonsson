@@ -1,8 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
-    <g class="back">
-        <rect width="200" height="200" fill="black"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" x="0px" y="0px">
+  <defs>
+    <radialGradient id="gradient-0" gradientUnits="objectBoundingBox" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" style="stop-color: #00e5ff"/>
+      <stop offset="1" style="stop-color: #008a99"/>
+    </radialGradient>
+    <linearGradient id="gradient-1" gradientUnits="userSpaceOnUse" x1="236" y1="1202.60009765625" x2="236" y2="1309.5">
+      <stop offset="0" style="stop-color: #00e5ff"/>
+      <stop offset="1" style="stop-color: #008a99"/>
+    </linearGradient>
+  </defs>
+  <rect id="ee-background" x="0" y="0" width="400" height="400" style="fill: white; fill-opacity: 0; pointer-events: none;"/>
+  <g transform="matrix(3.6323437690734868, 0, 0, 3.6323437690734868, -660.806465667582, -4361.309519828487)">
+    <g id="Layer_2_39_" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="Layer_1-2_37_">
+        <g>
+			    <path class="st0" d="M236,1309.5l-46-26.7v-53.5l46-26.7l46,26.7v53.5L236,1309.5z M196,1279.3l40,23.3l40-23.3v-46.5l-40-23.3&#10;&#9;&#9;&#9;&#9;l-40,23.3V1279.3z" style="fill: url('#gradient-1');"/>
+		    </g>
+	    </g>
     </g>
-    <g id="shape">
-        <circle cx="60" cy="60" r="30" fill="#494949" />
-    </g>
+  </g>
 </svg>
