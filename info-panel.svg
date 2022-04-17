@@ -12,16 +12,16 @@
     </linearGradient>
   </defs>
   <rect id="ee-background" x="0" y="0" width="400" height="400" style="fill: white; fill-opacity: 0; pointer-events: none; visibility: hidden;"/>
-  <text style="fill: rgb(51, 51, 51); font-family: &quot;Major Mono Display&quot;; font-size: 28px; white-space: pre;" x="107.125" y="225.481" transform="matrix(0.690369, 0.402273, 0.011339, 1.094169, -14.814334, -136.244308)">Stefan<tspan x="107.125" dy="1em">​</tspan>Mar<tspan x="107.125" dy="1em">​</tspan>Antonsson</text>
+  <text style="fill: rgb(0, 225, 251); font-family: &quot;Major Mono Display&quot;; font-size: 28px; white-space: pre;" x="107.125" y="225.481" transform="matrix(0.690369, 0.402273, 0.011339, 1.094169, -14.814334, -136.244308)">Stefan<tspan x="107.125" dy="1em">​</tspan>Mar<tspan x="107.125" dy="1em">​</tspan>Antonsson</text>
   <line style="stroke: rgb(0, 0, 0); pointer-events: none;" x1="200" y1="200" x2="200" y2="383.607"/>
   <line style="stroke: rgb(0, 0, 0); pointer-events: none;" x1="200" y1="200" x2="51.533" y2="113.731"/>
   <line style="stroke: rgb(0, 0, 0); pointer-events: none;" x1="348.211" y1="113.731" x2="199.872" y2="200" transform="matrix(-1, 0, 0, -1, 548.210983, 313.731003)"/>
   <g transform="matrix(3.632344, 0, 0, 3.632344, -660.807434, -4362.405762)" style="">
     <path class="st0" d="M 236.984 1309.5 L 190.984 1282.8 L 190.984 1229.3 L 236.984 1202.6 L 282.984 1229.3 L 282.984 1282.8 L 236.984 1309.5 Z M 196.984 1279.3 L 236.984 1302.6 L 276.984 1279.3 L 276.984 1232.8 L 236.984 1209.5 L 196.984 1232.8 L 196.984 1279.3 Z" style="fill: url(#gradient-1); stroke: rgb(0, 0, 0); stroke-width: 0.275304px;"/>
   </g>
-  <text transform="matrix(0.665783, -0.387744, 0.040584, 1.11121, 126.254288, 9.355674)" style="fill: rgb(51, 51, 51); font-family: &quot;Major Mono Display&quot;; font-size: 14.4445px; letter-spacing: -1.2px; line-height: 27.1897px; word-spacing: -3.7px; white-space: pre;"><tspan x="107.125" y="225.481">languages i know</tspan><tspan x="107.125" dy="1.3em">​</tspan><tspan>c# javascript<tspan x="107.125" dy="1.3em">​</tspan>css html</tspan><tspan x="107.125" dy="1.3em">​</tspan><tspan x="107.125" dy="1.3em">​</tspan><tspan>currently learning</tspan><tspan x="107.125" dy="1.3em">​</tspan><tspan>go</tspan><tspan x="107.125" dy="1.3em">​</tspan></text>
-  <rect x="74.803" y="116.691" width="146.371" height="38.499" style="fill: rgb(51, 51, 51);" transform="matrix(0.864457, 0.502707, 0.000454, 1.15706, -1.986291, 57.781094)" rx="4.899" ry="4.899"/>
-  <path d="M 260.797 79.88 L 199.951 45.222 L 139.183 79.906 L 139.297 108.008 L 200.325 145.511 L 199.986 157.751 L 139.19 122.501 L 139.074 150.889 L 200.042 186.311 L 260.881 150.643 L 260.81 128.401 L 200.031 92.442 L 200.076 74.741 L 260.784 110.103 L 260.797 79.88 Z" style="fill: rgb(51, 51, 51); visibility: hidden;"/>
+  <text transform="matrix(0.665783, -0.387744, 0.040584, 1.11121, 126.254288, 9.355674)" style="fill: rgb(0, 225, 251); font-family: &quot;Major Mono Display&quot;; font-size: 14.4445px; letter-spacing: -1.2px; line-height: 27.1897px; word-spacing: -3.7px; white-space: pre;"><tspan x="107.125" y="225.481">languages i know</tspan><tspan x="107.125" dy="1.3em">​</tspan><tspan>c# javascript<tspan x="107.125" dy="1.3em">​</tspan>css html</tspan><tspan x="107.125" dy="1.3em">​</tspan><tspan x="107.125" dy="1.3em">​</tspan><tspan>currently learning</tspan><tspan x="107.125" dy="1.3em">​</tspan><tspan>go</tspan><tspan x="107.125" dy="1.3em">​</tspan></text>
+  <rect x="74.803" y="116.691" width="146.371" height="38.499" style="fill: rgb(0, 225, 251);" transform="matrix(0.864457, 0.502707, 0.000454, 1.15706, -1.986291, 57.781094)" rx="4.899" ry="4.899"/>
+  <path d="M 260.797 79.88 L 199.951 45.222 L 139.183 79.906 L 139.297 108.008 L 200.325 145.511 L 199.986 157.751 L 139.19 122.501 L 139.074 150.889 L 200.042 186.311 L 260.881 150.643 L 260.81 128.401 L 200.031 92.442 L 200.076 74.741 L 260.784 110.103 L 260.797 79.88 Z" style="fill: rgb(0, 225, 251); visibility: hidden;"/>
   <g style="visibility: hidden;">
     <title>Red line grid</title>
     <line style="stroke: rgb(255, 0, 0);" x1="200" y1="15.719" x2="200" y2="218.447"/>
@@ -40,5 +40,5 @@
   <g transform="matrix(1.326273, 0, 0, 1.326273, -114.305496, -1549.896118)" style="visibility: hidden;">
     <path class="st0" d="M 236.984 1309.5 L 190.984 1282.8 L 190.984 1229.3 L 236.984 1202.6 L 282.984 1229.3 L 282.984 1282.8 L 236.984 1309.5 Z M 196.984 1279.3 L 236.984 1302.6 L 276.984 1279.3 L 276.984 1232.8 L 236.984 1209.5 L 196.984 1232.8 L 196.984 1279.3 Z" style="stroke-width: 3.01597px; fill: rgb(255, 102, 0);"/>
   </g>
-  <text transform="matrix(2.508646, -1.422661, 2.162192, 1.238763, -550.069641, 252.743729)" style="fill: none; font-family: &quot;Major Mono Display&quot;; font-size: 79px; stroke: rgb(51, 51, 51); white-space: pre;" x="169.145" y="142.768">S</text>
+  <text transform="matrix(2.508646, -1.422661, 2.162192, 1.238763, -550.069641, 252.743729)" style="fill: none; font-family: &quot;Major Mono Display&quot;; font-size: 79px; stroke: rgb(0, 225, 251); white-space: pre;" x="169.145" y="142.768">S</text>
 </svg>
