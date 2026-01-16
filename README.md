@@ -1,3 +1,45 @@
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="400" src="https://github-readme-stats.vercel.app/api?username=StefanMarAntonsson&bg_color=00000000&title_color=00E3FD&hide_border=true&text_color=008D9D" alt="hexagon"></a>
-</p>
+<svg width="856" height="280" viewBox="0 0 856 280" xmlns="http://www.w3.org/2000/svg">
+  <rect x="120" y="0" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="600" y="216" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="792" y="240" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="816" y="72" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="792" y="24" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="120" y="24" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="24" y="120" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="576" y="96" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="840" y="144" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="696" y="240" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="288" y="72" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="408" y="216" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="144" y="264" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="168" y="192" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="624" y="72" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="240" y="168" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="576" y="24" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="840" y="192" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="384" y="192" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="72" y="120" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="168" y="120" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="816" y="24" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="576" y="192" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="240" y="240" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="144" y="192" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="288" y="48" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="168" y="216" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="600" y="168" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="792" y="96" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="336" y="264" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="264" y="192" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="24" y="24" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="240" y="144" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="576" y="264" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="384" y="240" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="240" y="192" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="456" y="0" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="72" y="96" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="456" y="144" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="288" y="24" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="672" y="72" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="432" y="72" width="16" height="16" rx="4" fill="#2B323B" />
+  <rect x="72" y="240" width="16" height="16" rx="4" fill="#2B323B" />
+</svg>
